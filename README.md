@@ -1,16 +1,19 @@
-# practice
+# To-Do App
 
-A new Flutter project.
+A simple to-do list Flutter app with the ability to add, edit, delete, and toggle task status.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- Add new task
+- Edit existing task
+- Mark task as done/undone
+- Delete task
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## How to Run
+1. Clone the repo
+2. Run `flutter pub get`
+3. Run the app using `flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
